@@ -1,7 +1,16 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V5.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="5Sport 4K">
     <display-name lang="ru">5Sport 4K</display-name>
     <url>http://www.iptvx.one</url>
   </channel>
+
+  <programme start="20250719200000 +0000" stop="20250719210000 +0000" channel="5Sport 4K">
+    <title>Live Football</title>
+    <desc>UEFA Euro Match: Germany vs France</desc>
+  </programme>
+  <programme start="20250719210000 +0000" stop="20250719300000 +0000" channel="5Sport 4K">
+    <title>Match Highlights</title>
+    <desc>Best moments and post-game analysis</desc>
+  </programme>
 </tv>
